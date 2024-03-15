@@ -1,3 +1,3 @@
-let myName: string = "Asharib"; // This saves the name
+let myName: string = "haseeb asim"; 
 
-console.log(`Hello ${myName}, would you like to learn some TypeScript today?`); // This shows the message
+console.log(`Hello ${myName}, would you like to learn some TypeScript today?`); 
